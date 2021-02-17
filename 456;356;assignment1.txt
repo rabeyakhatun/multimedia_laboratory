@@ -1,0 +1,15 @@
+Respected sir,
+
+Here i have attached a new typeface of the following characters in H980x unicode using Font forge tool,অ and ক
+
+ Unicode_0985 is the new type face of Bengali অ
+ Unicoe_0995 is the new type face of Bengali ক
+
+Submitted By,
+
+Rabeya Khatun
+ROLL:356
+Session:2016-17
+4th year 2nd Semester 
+Dept. of C.S.E
+Jahangirnagar University
